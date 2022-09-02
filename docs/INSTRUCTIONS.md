@@ -5,7 +5,9 @@ Verbeter het Visual Interface Design van je visitekaartje door visuele hiërarch
 
 ## Context
 
-Deze leertaak hoort bij sprint 1 "Your Tribe". Dit is een _extension_ taak die je individueel uitvoert.
+Deze deeltaak hoort bij sprint 1 "Your Tribe". Deze opdracht ga je individueel uitvoeren.
+
+In het S01W1-05-Visual-interface-design wordt uitgelegd wat je moet doen.
 
 
 ## Briefing
