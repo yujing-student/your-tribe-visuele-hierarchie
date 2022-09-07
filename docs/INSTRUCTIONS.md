@@ -53,7 +53,7 @@ Schets minimaal 8 verschillende versies waarin je door middel van grootte, kleur
 Bespreek al je schetsen in groepjes van 3. Leg bij elke schets uit hoe je visuele hiërarchie hebt toegepast. Geef elkaar tips en tops en schrijf dit op.
 
 4. Uitwerken - 
-Schets een nieuwe definitieve versie van je visitekaartje. 
+Schets een nieuwe definitieve versie van je visitekaartje. Schrijf op wat de belangrijkste informatie, belangrijke details en achtergrondinformatie is en hoe je visuele hierarchie hebt toegepast.
 
 
   
@@ -95,5 +95,5 @@ Deze deeltaak hoort bij het gedragscriterium:
 Deze opdracht is done als:
 
 - [ ] Je schetsen staan in de wiki van je visistekaartje repository, per schets is beschreven hoe de visuele hierarchie is toegepast
-- [ ] Je definitieve schets staat in de wiki van je visistekaartje repository met een korte uitleg hoe de visuele hierarchie is toegepast
+- [ ] Je definitieve schets staat in de wiki van je visistekaartje repository met uitleg hoe de visuele hierarchie is toegepast
 
