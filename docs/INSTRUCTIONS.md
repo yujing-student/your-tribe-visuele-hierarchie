@@ -95,5 +95,5 @@ Deze deeltaak hoort bij het gedragscriterium:
 Deze opdracht is done als:
 
 - [ ] Je schetsen staan in de wiki van je visistekaartje repository, per schets is beschreven hoe de visuele hierarchie is toegepast
-- [ ] Je definitieve schets staat in de wiki van van je visistekaartje repository met een korte uitleg hoe de visuele hierarchie is toegepast
+- [ ] Je definitieve schets staat in de wiki van je visistekaartje repository met een korte uitleg hoe de visuele hierarchie is toegepast
 
