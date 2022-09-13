@@ -1,5 +1,5 @@
 
-# Visuele Hiërarchie Visitekaartje
+# Your Tribe - Visuele Hiërarchie Visitekaartje
 
 Verbeter het Visual Interface Design van je visitekaartje door visuele hiërarchie toe te passen. 
 
