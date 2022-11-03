@@ -9,6 +9,9 @@ Deze deeltaak hoort bij sprint 1 "Your Tribe". Deze opdracht ga je individueel u
 
 In het S01W1-05-Visual-interface-design wordt uitgelegd wat je moet doen.
 
+Deze deeltaak hoor bij de leertaak:
+- [Your Tribe Profile Card](https://github.com/fdnd-task/your-tribe-profile-card)
+
 
 ## Briefing
 
