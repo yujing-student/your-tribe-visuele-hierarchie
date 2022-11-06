@@ -90,7 +90,7 @@ Focus sprint 1: Your Tribe - De focus in deze sprint ligt op kennismaken, samenw
 
 Deze deeltaak hoort bij het gedragscriterium:
 
-- Je past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe.
+- Methodisch handelen: Je past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe.
 
 Deze opdracht is done als:
 
