@@ -84,13 +84,9 @@ Visuele hiërarchie toepassen op je visitekaartje.
 
 
 
-## Criteria
+## Definition of Done
 
 Focus sprint 1: Your Tribe - De focus in deze sprint ligt op kennismaken, samenwerken en hoe je interface en vormgevingsprincipes kan toepassen voor een responsive design.
-
-Deze deeltaak hoort bij het gedragscriterium:
-
-- Methodisch handelen: Je past aangeboden principes en conventies op het gebied van frontend, interface design en vormgeving toe.
 
 Deze opdracht is done als:
 
