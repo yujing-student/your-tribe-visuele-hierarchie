@@ -91,5 +91,3 @@ Focus sprint 1: Your Tribe - De focus in deze sprint ligt op kennismaken, samenw
 Deze opdracht is done als:
 
 - [ ] Je schetsen staan in de wiki van je visistekaartje repository, per schets is beschreven hoe de visuele hierarchie is toegepast
-- [ ] Je definitieve schets staat in de wiki van je visistekaartje repository met uitleg hoe de visuele hierarchie is toegepast
-
