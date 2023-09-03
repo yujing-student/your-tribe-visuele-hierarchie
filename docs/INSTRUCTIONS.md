@@ -75,11 +75,7 @@ In de bouwfase realiseer je de beslissingen uit de ontwerpfase in HTML, CSS en J
   
 Visuele hiërarchie toepassen op je visitekaartje.
 
-  1. Kopieer de code van je huidige versie naar een nieuwe map om in te werken.
-
-![image](https://user-images.githubusercontent.com/1391509/188836552-b9e9f842-aff9-41b3-acfa-b8f4d5eaa9e6.png)
-
-  2. Werk je nieuwe schets uit in HTML, CSS (en JS)  
+  1. Werk je nieuwe schets uit in HTML, CSS (en JS)  
 
 
 
@@ -88,4 +84,4 @@ Visuele hiërarchie toepassen op je visitekaartje.
 
 Deze opdracht is done als:
 
-- [ ] Je schetsen staan in de wiki van je visistekaartje repository, per schets is beschreven hoe de visuele hierarchie is toegepast
+- [ ] Je schetsen staan in de wiki van je visistekaartje-repository, per schets is beschreven hoe de visuele hierarchie is toegepast
