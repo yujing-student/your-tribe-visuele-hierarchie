@@ -30,7 +30,8 @@ Je leert wat visuele hiërarchie is en hoe je het kan toepassen in web design.
 
 ## Werkwijze
 
-![image](https://user-images.githubusercontent.com/1391509/188837839-627ad2e9-d338-4d6c-9846-181227885ab0.png)
+<img width="1073" alt="image" src="https://github.com/fdnd-task/your-tribe-visuele-hierarchie/assets/1391509/71b12a66-118a-4a2e-881d-069580b95f4c">
+
 
 Deze opdracht gaat over  [ontwerpen](#ontwerpen) en [bouwen](#bouwen) van de fases van de DLC.
 
