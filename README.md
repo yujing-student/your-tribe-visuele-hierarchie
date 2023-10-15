@@ -1,4 +1,4 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/your-tribe-visuele-hierarchie/blob/main/docs/INSTRUCTIONS.md)
 
 ## Licentie
 
