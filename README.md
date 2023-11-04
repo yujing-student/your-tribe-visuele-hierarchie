@@ -2,7 +2,7 @@
 
 # Visuele Hiërarchie
 
-Verbeter het Visual Interface Design van je visitekaartje door visuele hiërarchie toe te passen. 
+zie de link naar de schetsen https://github.com/yujing-student/your-tribe-profile-card/wiki#de-visuale-hierarchie
 
 
 ## Licentie
