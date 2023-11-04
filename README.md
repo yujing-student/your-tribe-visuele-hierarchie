@@ -3,6 +3,7 @@
 # Visuele Hiërarchie
 
 zie de link naar de schetsen https://github.com/yujing-student/your-tribe-profile-card/wiki#de-visuale-hierarchie
+zie de link naar het gemaakte werk https://yujing-student.github.io/your-tribe-profile-card/ 
 
 
 ## Licentie
